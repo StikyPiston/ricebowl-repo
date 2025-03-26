@@ -1,8 +1,8 @@
 {
-  "bugcore-bspwm": {
-    "repo": "https://raw.githubusercontent.com/stikypiston/bugcore-bspwm"
-  },
   "darkroast-bspwm": {
     "repo": "https://raw.githubusercontent.com/stikypiston/darkroast-bspwm"
+  },
+  "dieselbrew-bspwm": {
+    "repo": "https://raw.githubusercontent.com/stikypiston/dieselbrew-bspwm"
   }
 }
